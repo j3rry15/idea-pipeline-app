@@ -1,0 +1,13 @@
+{
+  "name": "Idea Pipeline",
+  "short_name": "Ideas",
+  "description": "Capture ideas on the go and send them to Claude on your desktop",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#12121a",
+  "theme_color": "#12121a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
